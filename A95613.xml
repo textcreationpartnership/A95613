@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true copie of a letter importing divers passages of high and dangerous consequence. VVritten by one Master Tempest a grand recusant, to his brother master John Tempest, likewise a papist and an officer in the Kings army. Which letter was intercepted at Manchester, and sent to a member of the House of Commons to be made known to the House, and was accordingly read at the Committee for the safety of the Kingdome. With divers remarkable passages from Shrewsbury and Coventry concerning the King, with the proceedings of his army at this present.</title>
+            <author>Tempest, George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95613</idno>
+            <idno type="STC">Wing T624</idno>
+            <idno type="STC">Thomason E124_15</idno>
+            <idno type="STC">ESTC R5359</idno>
+            <idno type="EEBO-CITATION">99872841</idno>
+            <idno type="PROQUEST">99872841</idno>
+            <idno type="VID">125287</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95613)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125287)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E124[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true copie of a letter importing divers passages of high and dangerous consequence. VVritten by one Master Tempest a grand recusant, to his brother master John Tempest, likewise a papist and an officer in the Kings army. Which letter was intercepted at Manchester, and sent to a member of the House of Commons to be made known to the House, and was accordingly read at the Committee for the safety of the Kingdome. With divers remarkable passages from Shrewsbury and Coventry concerning the King, with the proceedings of his army at this present.</title>
+                  <author>Tempest, George.</author>
+                  <author>Waring, Basill. Remarkable passages from Shrewsbury concerning the proceedings of his Majesties army at this present.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Thompson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Remarkable passages from Shrewsbury" signed on p. 6: Basill Waring.</note>
+                  <note>Annotation on Thomason copy: "Octob: 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125287:1" rendition="simple:additions"/>
+            <p>THE TRVE COPIE OF A LETTER Importing divers paſſages of high and dangerous conſequence.</p>
+            <p>VVritten by one Maſter <hi>Tempeſt</hi> a grand Recuſant, to his brother Maſter <hi>John Tempeſt,</hi> likewiſe a Papiſt and an Officer in the Kings Army.</p>
+            <p>Which Letter was intercepted at <hi>Mancheſter,</hi> and ſent to a Member of the Houſe of Commons to be made known to the Houſe, and was accordingly read at the Commit<g ref="char:EOLhyphen"/>tee for the ſafety of the Kingdome.</p>
+            <p>WITH DIVERS REMARKABLE paſſages from <hi>Shrewsbury</hi> and <hi>Coventry</hi> con<g ref="char:EOLhyphen"/>cerning the King, with the procee<g ref="char:EOLhyphen"/>dings of his Army at this preſent.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>H. Tompſon,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:125287:2"/>
+            <pb n="1" facs="tcp:125287:2"/>
+            <head>
+               <hi>THE COPIE</hi> OF A <hi>LETTER OF</hi> Dangerous Conſequence: Written by one Maſter <hi>Tempeſt</hi> a great Recuſant, to his brother an officer in the Kings Army.</head>
+            <opener>
+               <salute>Brother Iohn,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Can hear no particulars of your being (by my brother <hi>Thomas Medcafes</hi> relations) here in theſe parts, whom though I have not yet ſeene, this night (being to lodge here with us) to interro<g ref="char:EOLhyphen"/>gate him more fully, onely he reports you are all well, but was not in Prince
+<pb n="3" facs="tcp:125287:3"/> 
+               <hi>Rupert</hi> his laſt exploit. I was laſt week but one neer <hi>Cheſter,</hi> in hopes to have found you with His Ma<g ref="char:EOLhyphen"/>jeſty, but wholly loſt that labour, but for ſome ſimple doings, I ſaw in my returne at the ſiege of <hi>Mancheſter,</hi> a weak Towne, a ſtrong Siege of 7<g ref="char:punc">▪</g> of 8000. Foot, and 6. or 700. Horſe, with Canon e<g ref="char:EOLhyphen"/>nough to no purpoſe, and the pooreſt come off that ever was heard of. Our great affairs at York, not greatly better, young <hi>Hotham,</hi> and Sir <hi>Edward Rodes</hi> plundering up and downe without correcti<g ref="char:EOLhyphen"/>on. Our Arch-Biſhop, Sir <hi>Dovoyne,</hi> Sir <hi>Andrew Young,</hi> Sir <hi>Ralph Hansbye,</hi> and others more ſufferers I doubt by this, and with the nill doing of our greateſt, the baſe hearts of York-ſhire loſt to the King, but ſuch heroicke ones, as can take no new impreſſion. All ours are well, and deſire extream<g ref="char:EOLhyphen"/>ly to heare of you in more and particular relations then yet we have, which for Gods ſake chooſe ſome oportunities to doe, and incite others wee would heare of to doe the like, eſpecially <hi>Robin Grimſhawe,</hi> and <hi>Stephen,</hi> to whom commend me, as I daily beſeech heavens beſt aid to defend and preſerve you body and ſoule.</p>
+            <p>Our Prieſts at <hi>Lancaſter</hi> are all at liberty; Ca<g ref="char:EOLhyphen"/>tholique Commanders admitted, and all well e<g ref="char:EOLhyphen"/>nough that way, God Almighty (as I hope hee will the better) proſper the deſigne.</p>
+            <p>The brave Generall <hi>Revyne</hi> late out of <hi>Sweden</hi> now come to the King through us will make a brave conjunction with the braveſt Prince <hi>Rupert,</hi>
+               <pb n="2" facs="tcp:125287:3"/> to advance his Majeſties juſt deſignes, and thus I fill up roome with no newes to move you fill the lines with ſome. Write wherein I may help you and feare no failing; My brother <hi>Tempeſt</hi> is for <hi>Lon<g ref="char:EOLhyphen"/>don</hi> this Tearme, if the great deſignes may leade you thither, make beſt uſe of the time, to ſerve the aftertime, and when good bootie befals you, depoſite wiſely, or direct us how to befriend you. God almighty preſerve you however.</p>
+            <closer>
+               <signed>
+                  <hi>Your moſt aeffctionat brother,</hi> Geo. Tempeſt.</signed>
+               <dateline>
+                  <hi>Crickle</hi> 
+                  <date>
+                     <hi>this</hi> 10. <hi>of</hi> Oct. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:125287:4"/>
+            <head>
+               <hi>REMARKABLE PASSAGES FROM</hi> SHREWSB<g ref="char:V">Ʋ</g>RY: Concerning the proceedings of his Majeſties Army at this preſent.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y Reſpect unto you. I give you many thanks for your good Remembrance of mee; I could not write to you an Anſwer by the ſame Carryer, becauſe they did come of the lateſt unto mee, and I was mightily employed about the Kings buſineſſe, I being an officer of the Mayors. The King did goe from hence on wedneſday laſt to Bridg-north, and ſome of his foot ſouldyers did march yeſter<g ref="char:EOLhyphen"/>day to Sturbridge in Worceſter ſhire. The King
+<pb n="5" facs="tcp:125287:4"/> is about 16000 ſtrong of foot, beſides Horſe, and every day more and more come to him, by reaſon (as wee are informed about us) the Parliaments forces doe ſo plunder as they goe. And the King hath Commanded that noe plundring ſhall be at all, for he did cauſe Sir <hi>Robert Heath,</hi> who is now made Lord Chiefe Juſtice of England, to ſit with a Commiſſion of <hi>Oyer</hi> and <hi>Terminer</hi> in our Town where ſix of the Kings ſouldiers were caſt, for plundering and ſtealing.</p>
+            <p>The Mint is come to our Towne, and one Ma<g ref="char:EOLhyphen"/>ſter <hi>Buſhell</hi> doth coyne every day, for abundance of plate is ſent in to the King from ſeverall Coun<g ref="char:EOLhyphen"/>ties about us, and a great deale of Plate comes daily out of Wales and Cornwall to be coyned here. Alſo the Preſſe for Printing is come to this Towne, and this day they are ſetting of it up in ſome vacant roomes in my houſe.</p>
+            <p>Sir <hi>Richard Newport</hi> is made a Lord, he hath gi<g ref="char:EOLhyphen"/>ven the King 10000. pounds. The King would have Knighted the Mayor of our Towne, but he refuſed it.</p>
+            <p>The laſt Sunday the King took a Proteſtation and the Sacrament upon it in S. <hi>Maries</hi> Church in our Towne, to defend the true Proteſtant Religi<g ref="char:EOLhyphen"/>on, eſtabliſhed by Queene <hi>Elizabeth,</hi> and his Roy<g ref="char:EOLhyphen"/>all Father.</p>
+            <p>We heare His Majeſty on Tueſday laſt with his Armie were at <hi>Brumigham:</hi> Prince <hi>Robert</hi> de<g ref="char:EOLhyphen"/>manding 2000. pound, or he would plunder the
+<pb n="6" facs="tcp:125287:5"/> towne; but moſt of the Inhabitants were (before) fled to Coventry. Upon Thurſday he marched to <hi>Meriden,</hi> three miles off <hi>Coventry,</hi> and intends (as we are informed by divers reports) to march to<g ref="char:EOLhyphen"/>wards <hi>Banbury,</hi> and ſo to <hi>Oxford,</hi> for his reſolution it is thought is to march to London, or to Wind<g ref="char:EOLhyphen"/>ſor, or thereabouts. God of his mercy turn all to the good and peace of this Kingdome, and deliver us from the miſery of Civil War. Thus with my love to all our friends, I reſt,</p>
+            <closer>
+               <signed>
+                  <hi>Yours to his power,</hi> Baſill VVaring.</signed>
+               <dateline>
+                  <hi>Shrewsbury</hi> 
+                  <date>Oct. 18. 1642.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
